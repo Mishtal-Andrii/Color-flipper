@@ -1,0 +1,1 @@
+[DEMO LINK](https://mishtal-andrii.github.io/Color-flipper/)
